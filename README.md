@@ -1,1 +1,1 @@
-# Visitka.git
+# Visitka
